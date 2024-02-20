@@ -256,6 +256,18 @@ print(f"The average Northwest insurance = {avgNorthwestInsurance}")
 print(f"The average Southeast insurance = {avgSoutheastInsurance}")
 print(f"The average Southwest insurance = {avgSouthwestInsurance}")
 
+region_groups = ["Northeast", "Northwest", "Southeast", "Southwest"]
+insurance_region_cost = [avgNortheastInsurance, avgNorthwestInsurance, avgSoutheastInsurance, avgSouthwestInsurance]
+
+bars_region_insurance = plt.bar(region_groups, insurance_region_cost)
+bars_region_insurance[0].set_color("#B96890")
+bars_region_insurance[1].set_color("#4486C8")
+bars_region_insurance[2].set_color("#CD5757")
+bars_region_insurance[3].set_color("#54B787")
+plt.xlabel("Regions")
+plt.ylabel("Average Insurance Cost $")
+plt.show()
+
 
 
 
