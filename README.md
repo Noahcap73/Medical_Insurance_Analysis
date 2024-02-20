@@ -25,28 +25,28 @@ The average obese insurance = **<em>$15560.926321262412</em>** <br>
 ![Model](Medical_Insurance_Analysis/bmi.png)
 
 ## Finding the average price of insurance for different amounts of children
-The average zero children insurance =  **<em>12365.975601635888</em>** <br>
-The average one child insurance =  **<em>12731.171831635802</em>** <br>
-The average two children insurance = **<em>15073.563733958332</em>** <br>
-The average three children insurance = **<em>15355.318366815285</em>** <br>
-The average four children insurance = **<em>13850.6563112</em>** <br>
-The average five children insurance = **<em>8786.035247222222</em>** <br>
+The average zero children insurance =  **<em>$12365.975601635888</em>** <br>
+The average one child insurance =  **<em>$12731.171831635802</em>** <br>
+The average two children insurance = **<em>$15073.563733958332</em>** <br>
+The average three children insurance = **<em>$15355.318366815285</em>** <br>
+The average four children insurance = **<em>$13850.6563112</em>** <br>
+The average five children insurance = **<em>$8786.035247222222</em>** <br>
 
 **From this data, we can assume that there is not much correlation between the amount of children a person has and their insurance cost**
 ![Model](Medical_Insurance_Analysis/children.png)
 
 ## Finding the average price of insurance for smokers and non-smokers:
-The average smoker insurance = **<em>32050.23183153285</em>** <br>
-The average non-smoker insurance = **<em>8434.268297856202</em>** <br>
+The average smoker insurance = **<em>$32050.23183153285</em>** <br>
+The average non-smoker insurance = **<em>$8434.$268297856202</em>** <br>
 
 **From this data, we can assume that there is a strong correlation between smokers and expensive insurance cost**
 ![Model](Medical_Insurance_Analysis/smoker.png)
 
 ## Finding the average price of insurance for different regions:
-The average Northeast insurance =  **<em>13406.384516385804</em>** <br>
-The average Northwest insurance =  **<em>12417.575373969232</em>** <br>
-The average Southeast insurance =  **<em>14735.41143760989</em>** <br>
-The average Southwest insurance =  **<em>12346.937377292308</em>** <br>
+The average Northeast insurance =  **<em>$13406.384516385804</em>** <br>
+The average Northwest insurance =  **<em>$12417.575373969232</em>** <br>
+The average Southeast insurance =  **<em>$14735.41143760989</em>** <br>
+The average Southwest insurance =  **<em>$12346.937377292308</em>** <br>
 
 **From this data, we can assume that there is not much correlation between different regions and their insurance cost**
 ![Model](Medical_Insurance_Analysis/region.png)
